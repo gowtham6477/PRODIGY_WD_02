@@ -4,7 +4,7 @@
 ![Preview](preview2.png)
 
 
-### 🔗 **Live preview** of the project is [here]((https://gowtham6477.github.io/PRODIGY_WD_02_StopWatch/).
+### 🔗 **Live preview** of the project is [here](https://gowtham6477.github.io/PRODIGY_WD_02_StopWatch/).
 A simple and interactive stopwatch application built with HTML, CSS, and JavaScript. The stopwatch can be used to track time for various activities, featuring start, stop, and reset functionalities.
 
 ## 🚀 Features
