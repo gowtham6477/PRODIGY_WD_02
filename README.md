@@ -1,6 +1,8 @@
 # StopWatch
 
-![Preview](Stopwatch - Google Chrome 15-12-2024 16_16_22.png)
+![Preview](preview1.png)
+![Preview](preview2.png)
+
 
 ### 🔗 **Live preview** of the project is [here](https://gowtham6477.github.io/PRODIGY_WD_01_Responsive_landing_page/).
 A simple and interactive stopwatch application built with HTML, CSS, and JavaScript. The stopwatch can be used to track time for various activities, featuring start, stop, and reset functionalities.
